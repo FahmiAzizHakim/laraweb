@@ -15,7 +15,7 @@
   <title>{{ web_property('company_name', 'Green Logistic Solution') }}</title>
   <meta name="description" content="Pilih layanan: kontrak logistik, instalasi furniture &amp; AC, atau solusi pengisian daya kendaraan listrik.">
 
-  <link href="{{ asset('webassets/img/gls/gls-bold.png') }}" rel="icon">
+  <link href="{{ asset('webassets/img/gls/icon.ico') }}" rel="icon">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
   <link href="{{ asset('webassets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
   <link href="{{ asset('webassets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
